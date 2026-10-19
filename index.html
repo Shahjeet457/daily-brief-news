@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Daily Brief — Today's Headlines</title>
+<meta name="description" content="A daily headline aggregator from BBC, NPR, The Guardian and Al Jazeera.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css"></head>
+<body>
+<header class="masthead">
+  <div class="topline"><span id="today"></span><span id="updated">Loading…</span></div>
+  <h1>The Daily Brief</h1>
+  <p class="tagline">Today's headlines from trusted newsrooms — a headline aggregator. Read full stories at the source.</p>
+</header>
+<nav class="sections" id="sections" aria-label="Sections"></nav>
+<div class="toolbar"><input id="search" type="search" placeholder="Search headlines, summaries or sources…" aria-label="Search stories"><span id="count"></span></div>
+<main id="main"></main>
+<footer><p><strong>Headline aggregator.</strong> Headlines and short summaries come from the publishers' public RSS feeds; every story links to the original article. All rights belong to the respective publishers.</p><p id="feeds"></p></footer>
+<script src="app.js"></script>
+</body></html>
