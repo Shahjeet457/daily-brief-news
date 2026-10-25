@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T10:18:38+00:00",
+ "generated_at": "2026-10-25T10:17:43+00:00",
  "feeds": [
   "https://feeds.bbci.co.uk/news/business/rss.xml",
   "https://feeds.bbci.co.uk/news/health/rss.xml",
@@ -25,351 +25,400 @@
  "sections": {
   "Top Stories": [
    {
-    "title": "England thrash France to keep alive World Cup hopes",
-    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o?at_medium=RSS&at_campaign=rss",
+    "title": "Budget to include £1bn for social and affordable housing",
+    "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "England beat France 82-0 to maintain their hopes of reaching the Men's Rugby League World Cup semi-finals.",
-    "published": "2026-10-24T10:01:42+00:00"
+    "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+    "published": "2026-10-25T10:03:17+00:00"
    },
    {
-    "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-    "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+    "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+    "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
     "source": "NPR",
-    "summary": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
-    "published": "2026-10-24T10:00:00+00:00"
+    "summary": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy.",
+    "published": "2026-10-25T10:00:00+00:00"
    },
    {
-    "title": "U.S. birth rate drops to record low, but older women are having more babies",
-    "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-    "source": "NPR",
-    "summary": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children.",
-    "published": "2026-10-24T10:00:00+00:00"
+    "title": "Qatar official calls for peace and security to boost trade, investment",
+    "link": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The Qatari minister of state for trade says peace and security are essential for prosperity in trade and investment.",
+    "published": "2026-10-25T09:57:40+00:00"
    },
    {
-    "title": "Mum dies after trying to rescue sons swept away at sea",
-    "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+    "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+    "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "The children were subsequently rescued from the water, police say.",
-    "published": "2026-10-24T09:45:47+00:00"
+    "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+    "published": "2026-10-25T09:32:59+00:00"
    },
    {
-    "title": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
-    "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
+    "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
+    "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
     "source": "Al Jazeera",
-    "summary": "Polls indicate Brazil's presidential candidates are neck and neck before Sunday's voting.",
-    "published": "2026-10-24T09:41:56+00:00"
+    "summary": "Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions.",
+    "published": "2026-10-25T09:27:03+00:00"
    },
    {
-    "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
+    "title": "Australian Grand Prix called off as rain spoils Phillip Island sendoff",
+    "link": "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss",
     "source": "Al Jazeera",
-    "summary": "Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability.",
-    "published": "2026-10-24T09:32:22+00:00"
+    "summary": "Race delayed by two hours before being cancelled due to low visibility despite a sellout crowd at Phillip Island.",
+    "published": "2026-10-25T09:26:57+00:00"
    },
    {
-    "title": "Just Eat apologises after AI-generated images blunder",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder?traffic_source=rss",
+    "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
     "source": "Al Jazeera",
-    "summary": "Just Eat has apologised after its AI-generated food images went viral for grossly misrepresenting menu items.",
-    "published": "2026-10-24T09:29:37+00:00"
+    "summary": "Thousands of Protestant Orange Order members have marched through Portadown, Northern Ireland.",
+    "published": "2026-10-25T09:14:07+00:00"
    },
    {
-    "title": "No panic for England but Mitchell issues PWR warning",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv0ld9y3g426o?at_medium=RSS&at_campaign=rss",
+    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+    "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "A 2-0 series defeat for the Red Roses, their record 39-match winning streak and 41-match unbeaten run ended, and consecutive losses for the first time since 2016 - England are not invincible.",
-    "published": "2026-10-24T09:22:07+00:00"
+    "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+    "published": "2026-10-25T09:00:00+00:00"
    },
    {
-    "title": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.",
-    "published": "2026-10-24T09:16:19+00:00"
-   },
-   {
-    "title": "Why is Israel launching a new military operation in the occupied West Bank?",
-    "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Netanyahu says 'we will destroy this place' as Israeli forces begin days-long operation with raids and demolitions.",
-    "published": "2026-10-24T09:14:40+00:00"
-   },
-   {
-    "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-    "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+    "title": "Watch Match of the Day on iPlayer",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0033jlx?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-    "published": "2026-10-24T09:03:15+00:00"
+    "summary": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
+    "published": "2026-10-25T09:00:00+00:00"
    },
    {
-    "title": "This decade has been missing its big-impact midterm",
-    "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+    "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+    "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
     "source": "NPR",
-    "summary": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
-    "published": "2026-10-24T09:00:00+00:00"
+    "summary": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
+    "published": "2026-10-25T09:00:00+00:00"
    },
    {
-    "title": "Bolivian teachers strike over wages and education reform",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Bolivian teachers strike over wages and education reform",
-    "published": "2026-10-24T08:56:54+00:00"
-   },
-   {
-    "title": "The Muslims finding belonging in southern Spain",
-    "link": "https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Centuries after the end of Islamic rule, some Muslims are choosing Andalusia, drawn by traces of its past.",
-    "published": "2026-10-24T08:28:25+00:00"
-   },
-   {
-    "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-    "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-    "published": "2026-10-24T08:28:24+00:00"
-   },
-   {
-    "title": "Chicago Bulls storm back from early deficit to beat Milwaukee Bucks in NBA",
-    "link": "https://www.aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Jayson Tatum puts up 36 as Boston Celtics send NY Knicks to second straight loss and Lakers surge past Clippers.",
-    "published": "2026-10-24T08:24:59+00:00"
-   },
-   {
-    "title": "Massive chemical plant fire triggers mass evacuations in Mexico",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "An explosive fire erupted on Friday at a chemical plant in Leon, Mexico.",
-    "published": "2026-10-24T08:14:20+00:00"
-   },
-   {
-    "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
-    "link": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "US government seeks to delay Alaska Senate result over concerns about two candidates with the same name.",
-    "published": "2026-10-24T08:11:17+00:00"
-   },
-   {
-    "title": "Aston Villa vs Manchester City LIVE: Premier League",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Follow updates with build-up and team news from our live text commentary stream as Erling Haaland headlines.",
-    "published": "2026-10-24T08:03:52+00:00"
-   },
-   {
-    "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A man has been arrested after a fire broke out at Hitler’s former Alpine retreat, the Kehlsteinhaus, on Friday night.",
-    "published": "2026-10-24T07:31:42+00:00"
-   },
-   {
-    "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
-    "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
-    "published": "2026-10-24T07:09:55+00:00"
-   },
-   {
-    "title": "North Korea’s Kim Jong Un visits China via newly opened bridge",
-    "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "South Korean officials say Kim arrived in Dandong using the New Yalu River Bridge, which opened about a week ago.",
-    "published": "2026-10-24T07:07:20+00:00"
-   },
-   {
-    "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-    "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+    "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+    "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
     "source": "NPR",
-    "summary": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
-    "published": "2026-10-24T07:04:13+00:00"
+    "summary": "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country.",
+    "published": "2026-10-25T09:00:00+00:00"
    },
    {
-    "title": "COP17 puts Armenia’s environmental record in the spotlight",
-    "link": "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss",
+    "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
+    "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+    "source": "NPR",
+    "summary": "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting.",
+    "published": "2026-10-25T09:00:00+00:00"
+   },
+   {
+    "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
     "source": "Al Jazeera",
-    "summary": "As Yerevan hosts the global biodiversity summit, concerns over mining and environmental protection deserve scrutiny.",
-    "published": "2026-10-24T06:52:41+00:00"
+    "summary": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.",
+    "published": "2026-10-25T09:00:00+00:00"
+   },
+   {
+    "title": "Indigenous communities worry Brazil’s election could hurt environment",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Brazil's indigenous communities say they’re concerned by how the election outcome could impact environmental protections",
+    "published": "2026-10-25T08:54:47+00:00"
+   },
+   {
+    "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+    "link": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The former US president warns of rising costs, corruption and threats to democratic values ahead of the November 3 vote.",
+    "published": "2026-10-25T08:44:17+00:00"
+   },
+   {
+    "title": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
+    "link": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Alexander Volkanovski secures a technical knockout in the closing seconds of round two at UFC 333 in Abu Dhabi, UAE.",
+    "published": "2026-10-25T08:26:19+00:00"
+   },
+   {
+    "title": "Who are the best players never to win the Ballon d’Or?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/who-are-the-best-players-never-to-win-the-ballon?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Al Jazeera’s Samantha Johnson looks at the greatest players to never win the Ballon d'Or",
+    "published": "2026-10-25T08:20:20+00:00"
+   },
+   {
+    "title": "Meghan broke contact with father in letter citing abuse claims",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+    "published": "2026-10-25T08:05:31+00:00"
+   },
+   {
+    "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large.",
+    "published": "2026-10-25T07:59:38+00:00"
+   },
+   {
+    "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
+    "published": "2026-10-25T07:55:05+00:00"
+   },
+   {
+    "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+    "link": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Barcelona vs Real Madrid will mark the return of Spanish football's fiercest rivalry between two star-studded teams.",
+    "published": "2026-10-25T07:40:52+00:00"
+   },
+   {
+    "title": "Photos: Clashes erupt in France during protests over rising living costs",
+    "link": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Authorities deploy 70,000 officers to combat violence. Nearly 1,000 arrests made.",
+    "published": "2026-10-25T07:28:47+00:00"
+   },
+   {
+    "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
+    "link": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Israel says it will close all land crossings with the West Bank when it holds a general election on Tuesday.",
+    "published": "2026-10-25T07:20:36+00:00"
+   },
+   {
+    "title": "Rosebank: Life on the oil field at the centre of a political storm",
+    "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+    "published": "2026-10-25T07:15:38+00:00"
    }
   ],
   "World": [
    {
-    "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-    "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+    "title": "Storm Boelo: warnings in place in Scotland, Northern Ireland and north of England as high winds batter UK",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
     "source": "The Guardian",
-    "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a suspect after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi…",
-    "published": "2026-10-24T10:04:04+00:00"
+    "summary": "Met Office reports gusts of 80mph in exposed coastal spots and advises people in affected areas to stay indoors Strong winds have battered Scotland, Northern Ireland and northern England overnight, as Storm Boelo hit the UK. It was the second named storm in…",
+    "published": "2026-10-25T10:03:31+00:00"
    },
    {
-    "title": "Verse from Qu’ran inspired US man to leap on runaway school bus and halt it",
-    "link": "https://www.theguardian.com/us-news/2026/oct/24/runaway-school-bus-quran-minnesota",
+    "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
     "source": "The Guardian",
-    "summary": "Ebro Ahmed, who acted after driver’s medical emergency, said he hopes incident will show Eritreans ‘in a good way’ A man who hopped on to a school bus full of terrified children that was careering down a Minnesota street after its driver had a medical…",
-    "published": "2026-10-24T10:00:31+00:00"
+    "summary": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images All signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a…",
+    "published": "2026-10-25T09:33:05+00:00"
    },
    {
-    "title": "Protests begin across France, with shops, businesses and tourist sites closed – Europe live",
-    "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+    "title": "‘Why would I leave?’: Middlesbrough pushes back against ‘hardest place to grow up’ label",
+    "link": "https://www.theguardian.com/uk-news/2026/oct/25/middlesbrough-rejects-hardest-place-to-grow-up-label",
     "source": "The Guardian",
-    "summary": "France will deploy 70,000 officers around the country, while protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland Following last weekend’s unrest, authorities across France moved to try to restrict demonstrations, limiting…",
-    "published": "2026-10-24T09:54:55+00:00"
+    "summary": "Teesside town has come out worst in children’s commissioner’s report, but residents say such rankings are demoralising and counterproductive “It’s disappointing, it’s just another kicking,” said a youth worker after the town in which they work was labelled as…",
+    "published": "2026-10-25T09:00:58+00:00"
    },
    {
-    "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+    "title": "Bust companies revived in ‘phoenix’ deals more likely to fail again, study finds",
+    "link": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
+    "source": "The Guardian",
+    "summary": "Exclusive: research for the Guardian shows ‘pre-pack’ deals with former management also pay far less to creditors The boss whose twice-bust business appears to be back Insolvent businesses reacquired by their previous management in “pre-pack” administrations…",
+    "published": "2026-10-25T09:00:57+00:00"
+   },
+   {
+    "title": "The boss whose twice-bust business appears to be back despite £3m debts",
+    "link": "https://www.theguardian.com/business/2026/oct/25/recruitment-boss-twice-bust-business-resurface-debts",
+    "source": "The Guardian",
+    "summary": "Andrew Woosnam took millions from his recruitment firms before creditors, including HMRC, were left out of pocket Companies revived in ‘phoenix’ deals more likely to fail, study finds For three decades, the recruitment industry treated Andrew Woosnam well.…",
+    "published": "2026-10-25T09:00:57+00:00"
+   },
+   {
+    "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+    "link": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-    "published": "2026-10-24T09:46:53+00:00"
+    "summary": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
+    "published": "2026-10-25T08:36:47+00:00"
    },
    {
-    "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-    "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+    "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+    "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+    "source": "The Guardian",
+    "summary": "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva , is attempting an unprecedented…",
+    "published": "2026-10-25T08:00:58+00:00"
+   },
+   {
+    "title": "‘I can’t believe I get to see that’: One Born Every Minute is back for a 12th series",
+    "link": "https://www.theguardian.com/tv-and-radio/2026/oct/25/i-cant-believe-i-get-to-see-that-one-born-every-minute-is-back-for-a-12th-series",
+    "source": "The Guardian",
+    "summary": "Reality TV show returns to focus on childbirth, diversity and the sharing of stories in a social media age When One Born Every Minute first aired in 2010, viewers loved its fly-on-the-wall take on life in a maternity unit, from midwives idly chatting about…",
+    "published": "2026-10-25T08:00:57+00:00"
+   },
+   {
+    "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+    "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+    "source": "NPR",
+    "summary": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+    "published": "2026-10-25T07:15:00+00:00"
+   },
+   {
+    "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+    "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+    "source": "The Guardian",
+    "summary": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army…",
+    "published": "2026-10-25T06:24:46+00:00"
+   },
+   {
+    "title": "Eleven sustain gunshot wounds in shooting near Florida university",
+    "link": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+    "source": "The Guardian",
+    "summary": "Police said an altercation at a homecoming party escalated into gunfire, resulting in six adults and six juveniles injured A shooting ⁠near a Florida university campus in Tallahassee has left 11 people ⁠with gunshot wounds ⁠and ​another person injured,…",
+    "published": "2026-10-25T06:07:47+00:00"
+   },
+   {
+    "title": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+    "source": "The Guardian",
+    "summary": "The story of the emirates’ presence in Manchester winds from the Arab Spring to some of the most deprived places in England – with complicated results Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in 10 years When Hosni Mubarak, Egypt’s…",
+    "published": "2026-10-25T06:00:54+00:00"
+   },
+   {
+    "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+    "link": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+    "source": "The Guardian",
+    "summary": "Humanitarian catastrophe largely ignored as rivals Gadi Eisenkot and Benjamin Netanyahu vow to end Hamas rule As Israel prepares to go to the polls , Palestinians in Gaza are bracing for an outcome that could shape their future, knowing their fate rests with…",
+    "published": "2026-10-25T06:00:54+00:00"
+   },
+   {
+    "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
-    "published": "2026-10-24T09:44:01+00:00"
+    "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+    "published": "2026-10-25T05:45:31+00:00"
    },
    {
-    "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
-    "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+    "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
     "source": "The Guardian",
-    "summary": "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling. The Royal…",
-    "published": "2026-10-24T09:43:09+00:00"
+    "summary": "BoM predicts hail, damaging winds, flash flooding and power outages across southern Queensland, western NSW, the ACT and eastern Victoria on Sunday afternoon Get our breaking news email , free app or daily news podcast Large parts of eastern Australia were…",
+    "published": "2026-10-25T05:30:30+00:00"
    },
    {
-    "title": "Kim Jong-un crosses over newly opened bridge into China",
-    "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-    "source": "The Guardian",
-    "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year,…",
-    "published": "2026-10-24T09:34:40+00:00"
-   },
-   {
-    "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
-    "link": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
-    "source": "The Guardian",
-    "summary": "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the game Dried foods, bottled water, medicine stocks and backup power banks: it could be the props cupboard on a disaster movie, but instead it is precisely what…",
-    "published": "2026-10-24T09:00:29+00:00"
-   },
-   {
-    "title": "Dónal Lunny, ‘colossus of Irish music’, dies aged 79",
-    "link": "https://www.theguardian.com/music/2026/oct/24/donal-lunny-colossus-irish-music-dies-aged-79",
-    "source": "The Guardian",
-    "summary": "Founding member of Planxty, Lunny went on to play for bands such as Moving Hearts, the Bothy Band and Coolfin The Irish traditional musician Dónal Lunny has died at the age of 79 from cancer. Lunny rose to prominence in the trio Rakes of Kildare alongside his…",
-    "published": "2026-10-24T08:44:44+00:00"
-   },
-   {
-    "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-    "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-    "source": "The Guardian",
-    "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure…",
-    "published": "2026-10-24T08:32:56+00:00"
-   },
-   {
-    "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+    "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+    "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-    "published": "2026-10-24T07:17:44+00:00"
+    "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+    "published": "2026-10-25T05:15:52+00:00"
    },
    {
-    "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
-    "link": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
+    "title": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
     "source": "The Guardian",
-    "summary": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads Polluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli…",
-    "published": "2026-10-24T07:00:27+00:00"
+    "summary": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email , free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’…",
+    "published": "2026-10-25T03:54:43+00:00"
    },
    {
-    "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
-    "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-    "source": "The Guardian",
-    "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider…",
-    "published": "2026-10-24T06:51:53+00:00"
-   },
-   {
-    "title": "“Culture is stagnant, so politics is stuck” – playwright James Graham | Radical Thinking – podcast",
-    "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast",
-    "source": "The Guardian",
-    "summary": "Are we doomscrolling our way into a democratic crisis? That’s what the playwright James Graham fears may be happening, as he suggests that our algorithms have led us into ‘a massive crisis of the new’ and are preventing us from imagining a different future…",
-    "published": "2026-10-24T06:45:26+00:00"
-   },
-   {
-    "title": "More than third of post offices in TG Jones stores to shut by early 2027",
-    "link": "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
-    "source": "The Guardian",
-    "summary": "Closures within chain formerly under the WH Smith brand raise fears of high streets becoming ‘postal deserts’ Towns and even city centres face being left as “postal deserts” after it emerged that more than a third of post offices within the troubled TG Jones…",
-    "published": "2026-10-24T06:00:27+00:00"
-   },
-   {
-    "title": "‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?",
-    "link": "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia",
-    "source": "The Guardian",
-    "summary": "Established under the Franco dictatorship, the lunchtime ritual is in decline but all is not lost A little before lunchtime each working day across Spain, evidence of one of the lingering, if less notorious, legacies of the Franco dictatorship is carefully…",
-    "published": "2026-10-24T06:00:26+00:00"
-   },
-   {
-    "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-    "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
+    "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+    "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
-    "published": "2026-10-24T05:31:01+00:00"
+    "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+    "published": "2026-10-25T03:20:16+00:00"
    },
    {
-    "title": "How Brazil's changing working class is reshaping the presidential race",
-    "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+    "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+    "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
-    "published": "2026-10-24T05:05:44+00:00"
+    "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
+    "published": "2026-10-25T02:27:15+00:00"
    },
    {
-    "title": "The rise of AI election ads in US midterms campaign",
-    "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+    "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+    "link": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+    "source": "The Guardian",
+    "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete…",
+    "published": "2026-10-25T02:00:49+00:00"
+   },
+   {
+    "title": "‘Horrific’: woman, 19, shot in head in drive-by shooting outside boxing event near Brisbane",
+    "link": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+    "source": "The Guardian",
+    "summary": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event,…",
+    "published": "2026-10-25T01:41:37+00:00"
+   },
+   {
+    "title": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’",
+    "link": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+    "source": "The Guardian",
+    "summary": "State attorney general said Trump’s justice department’s directive to verify 20,000 ballots is completely improper California’s attorney general on Saturday rebuked the Trump administration’s efforts to quash alleged noncitizen voting, calling it…",
+    "published": "2026-10-25T00:16:17+00:00"
+   },
+   {
+    "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+    "link": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+    "source": "The Guardian",
+    "summary": "Former president speaks to crowd of thousands in support of Abdul El-Sayed for US Senate and Democratic ticket Barack Obama told a Detroit crowd on Saturday that Abdul El-Sayed was “fighting for change, real change, that will get money out of politics and put…",
+    "published": "2026-10-25T00:14:30+00:00"
+   },
+   {
+    "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+    "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
-    "published": "2026-10-24T05:03:44+00:00"
-   },
-   {
-    "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
-    "source": "The Guardian",
-    "summary": "The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general election They chant his name, they cheer and clap – and yet he is not the most dominant person in the…",
-    "published": "2026-10-24T05:00:24+00:00"
-   },
-   {
-    "title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
-    "link": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
-    "source": "The Guardian",
-    "summary": "The Senate candidate denounced opponent Ken Paxton, calling out corruption allegations and support from Musk James Talarico, the Democratic candidate for the US Senate in Texas, has taken aim at Elon Musk, warning that the tech mogul is trying to buy…",
-    "published": "2026-10-24T02:52:47+00:00"
-   },
-   {
-    "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-    "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-    "source": "The Guardian",
-    "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and…",
-    "published": "2026-10-24T02:22:32+00:00"
-   },
-   {
-    "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – as it happened",
-    "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-    "source": "The Guardian",
-    "summary": "This live blog is now closed. Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly…",
-    "published": "2026-10-24T02:01:54+00:00"
-   },
-   {
-    "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
-    "link": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
-    "source": "The Guardian",
-    "summary": "Letters from federal prosecutors represent latest escalation as Trump continues to make claims of voter fraud Federal prosecutors sent letters to county registrars across California on Friday demanding that local officials set aside and verify ballots that…",
-    "published": "2026-10-24T02:00:13+00:00"
+    "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
+    "published": "2026-10-24T23:50:02+00:00"
    }
   ],
   "Business": [
    {
-    "title": "Charity expects demand for Christmas present campaign",
-    "link": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss",
+    "title": "Heating oil costs 'more than double' ahead of winter",
+    "link": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "The campaign, run by Little Stars, is running from today until 4 December.",
-    "published": "2026-10-24T09:53:42+00:00"
+    "summary": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+    "published": "2026-10-25T07:12:21+00:00"
+   },
+   {
+    "title": "How families are cutting the cost of Halloween as spending grows",
+    "link": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Families are turning to homemade costumes, swaps and second-hand outfits to keep it affordable.",
+    "published": "2026-10-25T07:09:56+00:00"
+   },
+   {
+    "title": "Firms 'holding back' on new jobs ahead of Budget",
+    "link": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Some businesses say they want to see employment costs come down in the October Budget.",
+    "published": "2026-10-25T07:06:12+00:00"
+   },
+   {
+    "title": "Budget 2026: No more fat to trim for 'squeezed middle'",
+    "link": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?",
+    "published": "2026-10-25T06:21:23+00:00"
+   },
+   {
+    "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+    "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+    "published": "2026-10-25T06:00:15+00:00"
+   },
+   {
+    "title": "Trade tariffs cause whiplash at Port Milwaukee",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+    "source": "NPR",
+    "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+    "published": "2026-10-24T21:20:55+00:00"
+   },
+   {
+    "title": "Rising demand from families needing Christmas help",
+    "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
+    "published": "2026-10-24T11:55:35+00:00"
+   },
+   {
+    "title": "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees",
+    "source": "NPR",
+    "summary": "A management consultant is going viral after he started sharing cringe-worthy anonymous DMs employees get from bosses. Like, ones they get on their wedding day and worse.",
+    "published": "2026-10-24T11:42:12+00:00"
    },
    {
     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -393,11 +442,11 @@
     "published": "2026-10-24T00:05:45+00:00"
    },
    {
-    "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
-    "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+    "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+    "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
-    "summary": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
-    "published": "2026-10-23T23:50:45+00:00"
+    "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+    "published": "2026-10-23T23:11:31+00:00"
    },
    {
     "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
@@ -435,13 +484,6 @@
     "published": "2026-10-23T12:24:17+00:00"
    },
    {
-    "title": "Island inflation rate rises to 3%, figures show",
-    "link": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show.",
-    "published": "2026-10-23T11:58:19+00:00"
-   },
-   {
     "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
     "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -470,13 +512,6 @@
     "published": "2026-10-23T09:00:00+00:00"
    },
    {
-    "title": "What is the Budget and what could be in it?",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-    "published": "2026-10-23T08:14:04+00:00"
-   },
-   {
     "title": "The Indian workers filming their work to train AI",
     "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
@@ -496,44 +531,58 @@
     "source": "BBC News",
     "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
     "published": "2026-10-23T06:47:10+00:00"
-   },
-   {
-    "title": "Renting in London - 'I pay £2,000 for one bedroom'",
-    "link": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "We ask people in the capital how much they pay for their homes.",
-    "published": "2026-10-23T05:45:54+00:00"
-   },
-   {
-    "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-    "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-    "published": "2026-10-22T23:20:38+00:00"
-   },
-   {
-    "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-    "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-    "published": "2026-10-22T22:27:53+00:00"
-   },
-   {
-    "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
-    "link": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
-    "source": "The Guardian",
-    "summary": "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros Discovery Elon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison. The deal comes alongside fresh equity…",
-    "published": "2026-10-22T21:23:39+00:00"
-   },
-   {
-    "title": "How America's mahjong craze is throwing a Chinese manufacturing town a lifeline",
-    "link": "https://www.npr.org/2026/10/22/nx-s1-6000127/china-mahjong-tile-game-taixing-manufacturing",
-    "source": "NPR",
-    "summary": "Shoppers in the U.S. are willing to spend hundreds of dollars for a mahjong set. In the eastern Chinese city of Taixing, manufacturers can barely keep up with the demand.",
-    "published": "2026-10-22T20:53:12+00:00"
    }
   ],
   "Technology": [
+   {
+    "title": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
+    "link": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
+    "source": "The Guardian",
+    "summary": "We all know the highlights of the tomb raider’s storied career – but what about the lowlights? We dig deep to unearth the archaeologist’s less glorious moments Happy birthday, Lara! This month marks 30 years since Ms Croft first swan-dived into our lives with…",
+    "published": "2026-10-25T10:00:01+00:00"
+   },
+   {
+    "title": "Cookie theft: how fraudsters get the digital key to your accounts",
+    "link": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+    "source": "The Guardian",
+    "summary": "‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts You’ve had a busy morning of life admin, logging into various accounts to check balances and make payments. At the end of a productive few hours you close your laptop…",
+    "published": "2026-10-25T07:00:56+00:00"
+   },
+   {
+    "title": "‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
+    "link": "https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone",
+    "source": "The Guardian",
+    "summary": "Athletes’ scramble to control – and monetise – their digital identities at the cutting edge of AI rights deals Get our new political email , free app or daily news podcast The Socceroos star stares at the camera as he strides through an enormous atrium, the…",
+    "published": "2026-10-24T19:00:40+00:00"
+   },
+   {
+    "title": "AI found the flaw. Hackers found the leak: The race to save 'PHP2SHELL'",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6012327/ai-found-the-flaw-hackers-found-the-leak-the-race-to-save-php2shell",
+    "source": "NPR",
+    "summary": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but news of the vulnerability leaked and hackers have swooped in.",
+    "published": "2026-10-24T11:42:09+00:00"
+   },
+   {
+    "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+    "link": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+    "source": "The Guardian",
+    "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales.…",
+    "published": "2026-10-24T11:00:32+00:00"
+   },
+   {
+    "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+    "link": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+    "source": "The Guardian",
+    "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure…",
+    "published": "2026-10-24T08:32:56+00:00"
+   },
+   {
+    "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
+    "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+    "source": "The Guardian",
+    "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider…",
+    "published": "2026-10-24T06:51:53+00:00"
+   },
    {
     "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
     "link": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
@@ -612,13 +661,6 @@
     "published": "2026-10-23T04:00:06+00:00"
    },
    {
-    "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-    "link": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-    "source": "The Guardian",
-    "summary": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing The latest shudder for stocks in the AI industry pulled markets lower worldwide on Thursday, while oil prices hit their highest levels since May on…",
-    "published": "2026-10-22T21:50:13+00:00"
-   },
-   {
     "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
     "link": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
     "source": "The Guardian",
@@ -659,51 +701,93 @@
     "source": "The Guardian",
     "summary": "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US. It is a testament to how fascinated we remain by the convicted fraudster, but what is behind the enduring…",
     "published": "2026-10-22T12:14:36+00:00"
-   },
-   {
-    "title": "How tech became the villain of the US midterms",
-    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai",
-    "source": "The Guardian",
-    "summary": "Datacenters, AI and distaste for the billionaires developing it has soured Americans on big tech How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions The campaign ad begins with a clear, idyllic stream…",
-    "published": "2026-10-22T12:00:44+00:00"
-   },
-   {
-    "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
-    "link": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
-    "source": "The Guardian",
-    "summary": "Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a million trees…",
-    "published": "2026-10-22T11:22:23+00:00"
-   },
-   {
-    "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
-    "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
-    "published": "2026-10-22T10:17:26+00:00"
-   },
-   {
-    "title": "'500 new vulnerabilities' found in government, says AI minister",
-    "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "'500 new vulnerabilities' found in government, says AI minister",
-    "published": "2026-10-22T10:08:44+00:00"
-   },
-   {
-    "title": "Achy from sitting at a desk all day? Try doing this",
-    "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-    "source": "NPR",
-    "summary": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
-    "published": "2026-10-22T09:01:00+00:00"
-   },
-   {
-    "title": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
-    "link": "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
-    "source": "The Guardian",
-    "summary": "Nintendo Switch 2; Nintendo/Nintendo Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game When the first Nintendo Switch Sports brought the effortless fun of Wii Sports back into my…",
-    "published": "2026-10-22T09:00:58+00:00"
    }
   ],
   "Science": [
+   {
+    "title": "More wet and windy weather to follow stormy weekend",
+    "link": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week.",
+    "published": "2026-10-25T10:16:20+00:00"
+   },
+   {
+    "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "More than 500 homes are without power and flooding and felled trees have been reported on roads.",
+    "published": "2026-10-25T10:09:27+00:00"
+   },
+   {
+    "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+    "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.",
+    "published": "2026-10-25T09:59:50+00:00"
+   },
+   {
+    "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
+    "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday.",
+    "published": "2026-10-25T09:33:29+00:00"
+   },
+   {
+    "title": "Thousands without electricity as Storm Boelo hits",
+    "link": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "An amber warning is in force across parts of County Antrim and County Londonderry until 10:00 GMT on Sunday.",
+    "published": "2026-10-25T08:53:04+00:00"
+   },
+   {
+    "title": "Seabirds and sewage among UNESCO status challenges",
+    "link": "https://www.bbc.co.uk/news/articles/cwzrd1e364jlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "A report marking 10 years of the Isle of Man as a UNESCO Biosphere highlights the scheme's progress.",
+    "published": "2026-10-25T07:22:57+00:00"
+   },
+   {
+    "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
+    "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+    "source": "The Guardian",
+    "summary": "Exclusive: Optical engineering that went into 1,600-year-old Lycurgus Cup has baffled experts for centuries The Romans’ proficiency in the art of glass-making has produced some of the wonders of antiquity, but few of their creations better a 1,600-year-old…",
+    "published": "2026-10-25T06:00:55+00:00"
+   },
+   {
+    "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+    "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+    "published": "2026-10-24T23:02:51+00:00"
+   },
+   {
+    "title": "The BoM’s temperature record keeping is under attack – again. What’s going on? | Temperature Check",
+    "link": "https://www.theguardian.com/environment/2026/oct/25/bom-temperature-record-keeping-under-attack-again",
+    "source": "The Guardian",
+    "summary": "An ‘audit’ of the Bureau of Meteorology main dataset for measuring climate change claims it contains ‘widespread errors’. It doesn’t stack up Want to get this in your inbox when it publishes? Sign up for the Clear Air Australia newsletter here Australia’s…",
+    "published": "2026-10-24T19:00:41+00:00"
+   },
+   {
+    "title": "Amber weather warning as Storm Boelo hits Scotland",
+    "link": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday.",
+    "published": "2026-10-24T14:40:18+00:00"
+   },
+   {
+    "title": "Storm Boelo to bring severe gales and heavy rain into Sunday",
+    "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+    "published": "2026-10-24T11:48:58+00:00"
+   },
+   {
+    "title": "Time expert Philippe Richard on why scientists are changing how we keep time",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6011081/time-expert-philippe-richard-on-why-scientists-are-changing-how-we-keep-time",
+    "source": "NPR",
+    "summary": "Scientists have voted to change how the world keeps time, but most people won't even notice. NPR's Scott Simon talks to Philippe Richard, director of Switzerland's Federal Institute of Metrology.",
+    "published": "2026-10-24T11:42:07+00:00"
+   },
    {
     "title": "Wales plans to ban steel pylons as government launches consultation",
     "link": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
@@ -712,25 +796,11 @@
     "published": "2026-10-24T10:04:29+00:00"
    },
    {
-    "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
-    "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
-    "published": "2026-10-24T09:41:10+00:00"
-   },
-   {
     "title": "Weather warnings in place ahead of Storm Boelo",
     "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "summary": "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday.",
     "published": "2026-10-24T08:28:49+00:00"
-   },
-   {
-    "title": "Second storm to hit UK with up to 80mph gusts as hundreds still without power",
-    "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
-    "published": "2026-10-24T06:40:39+00:00"
    },
    {
     "title": "Project to restore rare native trees with DNA testing",
@@ -775,48 +845,6 @@
     "published": "2026-10-23T16:13:11+00:00"
    },
    {
-    "title": "Oil spill washes up on UAE beaches after tanker strike",
-    "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-    "published": "2026-10-23T15:30:47+00:00"
-   },
-   {
-    "title": "Why should I stockpile and what will I need?",
-    "link": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "The UK government has warned households to have three days of essential supplies on hand.",
-    "published": "2026-10-23T13:30:32+00:00"
-   },
-   {
-    "title": "October's full Hunter's Moon to light up night sky this weekend",
-    "link": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "October's full Moon, known as the Hunter's Moon, will rise on Sunday night. Will the weather be in your favour?",
-    "published": "2026-10-23T12:24:20+00:00"
-   },
-   {
-    "title": "Denmark nurdles may be from Tyne spill, agency says",
-    "link": "https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "The Danish Environment Protection Agency says nurdles it has tested are similar to the Tyne pellets.",
-    "published": "2026-10-23T11:56:14+00:00"
-   },
-   {
-    "title": "Storm Austen hits UK as yellow wind warnings in effect",
-    "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
-    "published": "2026-10-23T09:30:03+00:00"
-   },
-   {
-    "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-    "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
-    "published": "2026-10-23T08:26:47+00:00"
-   },
-   {
     "title": "Can AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar",
     "link": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
     "source": "The Guardian",
@@ -843,207 +871,228 @@
     "source": "The Guardian",
     "summary": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 mission Get our breaking news email , free app or daily news podcast The federal government has sent an offer to the European…",
     "published": "2026-10-22T23:51:24+00:00"
-   },
-   {
-    "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-    "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
-    "published": "2026-10-22T21:21:22+00:00"
-   },
-   {
-    "title": "Should 'bird brain' be a compliment? Here's how crows think fast",
-    "link": "https://www.npr.org/2026/10/22/nx-s1-6010587/should-bird-brain-be-a-compliment-heres-how-crows-think-fast",
-    "source": "NPR",
-    "summary": "New research in the journal Science finds that crows turn visual information into decisions twice as fast as humans and primates. They also process information is quite similarly to humans.",
-    "published": "2026-10-22T20:47:25+00:00"
-   },
-   {
-    "title": "BBC Inside Science",
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
-    "published": "2026-10-22T20:00:00+00:00"
-   },
-   {
-    "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
-    "link": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured.",
-    "published": "2026-10-22T18:48:59+00:00"
    }
   ],
   "Sports": [
    {
-    "title": "Australia v England: women’s Rugby League World Cup – live",
-    "link": "https://www.theguardian.com/sport/live/2026/oct/24/australia-vs-england-womens-rugby-league-world-cup-live-updates",
+    "title": "Australia v Fiji: men’s Rugby League World Cup – live",
+    "link": "https://www.theguardian.com/sport/live/2026/oct/25/australia-vs-fiji-mens-rugby-league-world-cup-live-updates",
     "source": "The Guardian",
-    "summary": "Updates as the Jillaroos and England meet at HBF Park Any thoughts? Get in touch with an email The teams are finishing up their preparations in the change rooms now – it won’t be long until the match gets under way! You’d expect the Jillaroos to be happy…",
-    "published": "2026-10-24T10:08:36+00:00"
+    "summary": "Updates as the Kangaroos and Fiji Bati meet at Suncorp Stadium Any thoughts? Get in touch with an email Tonight’s referee is NRL veteran Gerard Sutton. A quick reminder about the 2026 men’s Rugby League World Cup format. The 2026 men’s RLWC features ten…",
+    "published": "2026-10-25T10:05:33+00:00"
    },
    {
-    "title": "Aston Villa v Manchester City: Premier League – live",
-    "link": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
+    "title": "Pakistan v England: tri-series one day international cricket – live",
+    "link": "https://www.theguardian.com/sport/live/2026/oct/25/pakistan-v-england-tri-series-one-day-international-cricket-live",
     "source": "The Guardian",
-    "summary": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Ten things to look out for | Live scores | Table You remember Manchester City, don’t you? They made one or two headlines earlier in the month, but have since been kept off the back pages by a…",
-    "published": "2026-10-24T10:00:30+00:00"
+    "summary": "Live ODI cricket updates from 8am GMT Sri Lanka stun England with second-highest ODI chase Sign up for The Spin | And send Daniel an email Daniel Mark Butcher is touching the surface now. Looks a road. But what do I know? The last time England played here…",
+    "published": "2026-10-25T10:05:05+00:00"
    },
    {
-    "title": "Mourinho says Madrid-Barça comparison ‘unfair’, Kompany to miss ‘weeks’ say Bayern, and more",
-    "link": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
+    "title": "Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live",
+    "link": "https://www.theguardian.com/football/live/2026/oct/25/buildup-liverpool-brighton-manchester-united-bournemouth-matchday-live",
     "source": "The Guardian",
-    "summary": "⚽ All the latest as we build up to Saturday’s games ⚽ Ten things to look out for | Fixtures | Mail David Just under three hours to go before Villa Park witnesses people defiantly waving inflatable bananas while being called cheats. Taha Hashim looks at Aston…",
-    "published": "2026-10-24T10:00:12+00:00"
+    "summary": "⚽️ News before the 2pm GMT Premier League fixtures ⚽️ How they stand | Fixtures | Mail John Aintree Racecourse has confirmed today’s race meeting has been cancelled due to high winds. Will that mean Liverpool v Brighton is called off? The Met Office has…",
+    "published": "2026-10-25T09:52:44+00:00"
    },
    {
-    "title": "Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich",
-    "link": "https://www.theguardian.com/football/2026/oct/24/vincent-kompany-recovery-virus-bayern-munich-bundesliga-football",
+    "title": "Murphy praises Ulster for 'sticking in the fight'",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw77pkxdl00jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Ulster head coach Richie Murphy praises his team for their battling qualities and execution of their gameplan which almost saw them earn a comeback win against the Bulls in Pretoria.",
+    "published": "2026-10-25T09:47:48+00:00"
+   },
+   {
+    "title": "Australia crumble under pressure to seal Constellation Cup capitulation to New Zealand",
+    "link": "https://www.theguardian.com/sport/2026/oct/25/australia-diamonds-new-zealand-silver-ferns-netball-constellation-cup-game-three-report",
     "source": "The Guardian",
-    "summary": "Head coach in hospital after collapsing in training Assistant coach Aaron Danks to take charge against Freiburg Bayern Munich expect Vincent Kompany to miss an extended period as their head coach continues his hospital treatment for a virus after collapsing…",
-    "published": "2026-10-24T09:40:45+00:00"
+    "summary": "Silver Ferns defeat Diamonds 49-52 in Game 3 in Sydney Australia lose series for fourth time since inception in 2010 Diamonds coach Stacey Marinkovich was left to lament Australia’s capitulation on home soil after New Zealand claimed the Constellation Cup…",
+    "published": "2026-10-25T09:07:20+00:00"
    },
    {
-    "title": "Wall on South Africa, surfing and pink scrum caps",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm4g1z1734lvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Ahead of Ireland's WXV Tests in South Africa, Dorothy Wall discusses the Springboks, surfing and her iconic pink scrum cap.",
-    "published": "2026-10-24T09:19:03+00:00"
-   },
-   {
-    "title": "Premier League today: How to watch Arsenal v Everton, TV channels & live stream",
-    "link": "https://www.theguardian.com/football/2026/oct/24/how-to-watch-premier-league-arsenal-everton",
+    "title": "Ballon d’Or ceremony returns to England in nod to ‘revolutionary’ Stanley Matthews",
+    "link": "https://www.theguardian.com/football/2026/oct/25/ballon-dor-ceremony-returns-to-england-in-nod-to-revolutionary-stanley-matthews",
     "source": "The Guardian",
-    "summary": "How will Arsenal and Everton fare today? Here is what to know, including kick-off time, TV channels and live stream options While questions have been asked of Arsenal’s attacking intent, there can be no complaints about their home form so far this season.…",
-    "published": "2026-10-24T09:00:29+00:00"
+    "summary": "Matthews’ family ‘very excited’ as London Palladium hosts event 70 years after first award at Blackpool town hall When football’s dignitaries assemble on Monday at the London Palladium for the Ballon d’Or ceremony it will be a far cry from the first awards 70…",
+    "published": "2026-10-25T08:00:58+00:00"
    },
    {
-    "title": "Latte Lath's journey from street games and Carrick to new start in Germany",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqrkyl1gp4leo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Emmanuel Latte Lath's journey took him from Ivory Coast to Italy as a child, now he is making another new start in Germany.",
-    "published": "2026-10-24T07:51:35+00:00"
-   },
-   {
-    "title": "Fastest pitch in World Series history as Brewers win opener",
-    "link": "https://www.bbc.co.uk/sport/baseball/articles/cwe8lnp78jgko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "The Milwaukee Brewers beat the Tampa Bay Rays 3-2 in the opening game of the best-of-seven World Series as both sides aim for their first title.",
-    "published": "2026-10-24T07:27:31+00:00"
-   },
-   {
-    "title": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
-    "link": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
+    "title": "Ian Holloway’s circus: why the manager’s outbursts are no laughing matter for fans",
+    "link": "https://www.theguardian.com/football/2026/oct/25/ian-holloway-circus-swindon-outbursts-no-laughing-matter-fans",
     "source": "The Guardian",
-    "summary": "Once Bobby Robson’s translator at the Camp Nou, Mourinho is tasked with bringing down Barcelona on Sunday José Mourinho has done the por que?, the printout and the press conference no-show, and he’s been here only three months. The Real Madrid manager has…",
-    "published": "2026-10-24T07:00:26+00:00"
+    "summary": "Swindon manager has a history of viral outbursts but fans want a united club and manager they can support In Ian Holloway’s often madcap managerial orbit, this was simply the latest in a steady succession of eccentric outbursts. Eyes bulging as he spoke, he…",
+    "published": "2026-10-25T08:00:56+00:00"
    },
    {
-    "title": "Wales great Faletau suffers fresh injury blow",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yn99z31elo?at_medium=RSS&at_campaign=rss",
+    "title": "What have Man Utd changed to turn around WSL form?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
-    "summary": "Wales number eight Taulupe Faletau suffers another injury blow after just one game back with Cardiff.",
-    "published": "2026-10-24T07:00:16+00:00"
-   },
-   {
-    "title": "Volkanovski nears featherweight immortality as record beckons",
-    "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq5ynjgkn68vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Alexander Volkanovski will stake his claim to be the greatest featherweight of all time if he beats Movsar Evloev at UFC 333 in Abu Dhabi on Saturday.",
-    "published": "2026-10-24T06:52:41+00:00"
-   },
-   {
-    "title": "Canada inflict back-to-back losses on England",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm79p7x79wl9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "England suffer back-to-back defeats for the first time in a decade as Canada win 31-22 in Ottawa, including a hat-trick for captain Sophie de Goede.",
-    "published": "2026-10-24T06:46:23+00:00"
-   },
-   {
-    "title": "Smith v Puello world title fight predictions",
-    "link": "https://www.bbc.co.uk/sport/boxing/articles/cwe9ldpmeljyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Figures from the boxing world give their predictions for Saturday's light-welterweight title fight between WBC champion Dalton Smith and Alberto Puello.",
-    "published": "2026-10-24T06:35:17+00:00"
-   },
-   {
-    "title": "Malacia has 'no regrets' over Man Utd - despite having to train with kids",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjx23d4p2v3go?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Tyrell Malacia opens up on his time at Manchester United after moving to FC Cincinnati to restart his career in Major League Soccer.",
-    "published": "2026-10-24T06:19:26+00:00"
-   },
-   {
-    "title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
-    "published": "2026-10-24T06:02:44+00:00"
+    "summary": "It's a different picture at Manchester United now than it was last month - so what have they changed to turn around their WSL form?",
+    "published": "2026-10-25T07:58:04+00:00"
    },
    {
     "title": "Who am I? Plus today's other quizzes",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cknv01g9n27do?at_medium=RSS&at_campaign=rss",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c933x18044epo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
-    "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "published": "2026-10-24T05:41:29+00:00"
+    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "published": "2026-10-25T07:21:42+00:00"
    },
    {
-    "title": "The sexual assault scandal rocked gymnastics – but has pace of change in the sport been too slow?",
-    "link": "https://www.theguardian.com/sport/2026/oct/24/sexual-assault-scandal-rocked-gymnastics-larry-nassar-sport-change-slow",
+    "title": "Weather causes cancellation of MotoGP in Australia",
+    "link": "https://www.bbc.co.uk/sport/motorsport/articles/cxyvr5mm28qvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Sunday's MotoGP race in Australia is cancelled because of bad weather at Phillip Island.",
+    "published": "2026-10-25T07:00:01+00:00"
+   },
+   {
+    "title": "What Man Utd need now is stability, not more changes - Pulis",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.",
+    "published": "2026-10-25T06:34:07+00:00"
+   },
+   {
+    "title": "Why are Liverpool struggling for Premier League goals?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
+    "published": "2026-10-25T06:26:00+00:00"
+   },
+   {
+    "title": "When is Premier League 'sacking season' - and who should be worried?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.",
+    "published": "2026-10-25T06:17:46+00:00"
+   },
+   {
+    "title": "Inglorious end as rain cancels final MotoGP race at Phillip Island in setback for Márquez",
+    "link": "https://www.theguardian.com/sport/2026/oct/25/final-motogp-race-phillip-island-rain-cancellation-marc-marquez",
     "source": "The Guardian",
-    "summary": "Former USA team doctor Larry Nassar’s 2018 conviction sparked a global reckoning in gymnastics, yet gymnasts say they are still being let down It has been 10 years since the Indianapolis Star published allegations of sexual abuse by Larry Nassar, the former…",
-    "published": "2026-10-24T05:00:25+00:00"
+    "summary": "Treacherous conditions put end to nearly three decades at venue Australian race will relocate to Melbourne street circuit next year Marc Márquez was denied the chance to stretch his world championship lead over injured Jorge Martin with the last Australian…",
+    "published": "2026-10-25T05:45:35+00:00"
    },
    {
-    "title": "Daniel Stewart, former Port Adelaide AFL player, dies aged 37",
-    "link": "https://www.theguardian.com/sport/2026/oct/24/daniel-stewart-port-adelaide-power-afl-player-death-age-37",
+    "title": "Brewers erase four-run deficit to stun Rays and take 2-0 World Series lead",
+    "link": "https://www.theguardian.com/sport/2026/oct/25/milwaukee-brewers-tampa-bay-rays-world-series-game-two-comeback",
     "source": "The Guardian",
-    "summary": "Key forward played 36 games and kicked 31 goals between 2010 and 2013 Power will wear black armbands at first home game of 2027 season Former Port Adelaide player Daniel Stewart has died suddenly at the age of 37. The Power confirmed Stewart’s death on…",
-    "published": "2026-10-24T04:29:50+00:00"
+    "summary": "Milwaukee rally from 4-0 down to win 5-4 in Game 2 Frelick homers before Pratt delivers go-ahead single Rays undone by defensive mistakes in seventh inning Sal Frelick tied the score with his first home run in three months, Cooper Pratt hit a go-ahead single…",
+    "published": "2026-10-25T04:12:28+00:00"
    },
    {
-    "title": "Brewers survive chaotic ninth-inning replay drama to beat Rays in World Series opener",
-    "link": "https://www.theguardian.com/sport/2026/oct/23/brewers-rays-world-series-game-one-christian-yelich",
+    "title": "Briton Palmowski wins F1 Academy title",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cvj6jwzp2y4go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Britain's Alisha Palmowski wins the F1 Academy title at the Circuit of the Americas in Austin.",
+    "published": "2026-10-25T01:18:37+00:00"
+   },
+   {
+    "title": "Antonelli stands on brink of history in Austin",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
+    "published": "2026-10-25T00:40:56+00:00"
+   },
+   {
+    "title": "United States Grand Prix: Kimi Antonelli takes pole – as it happened",
+    "link": "https://www.theguardian.com/sport/live/2026/oct/24/united-states-grand-prix-formula-one-qualifying-live",
     "source": "The Guardian",
-    "summary": "Brewers claim 3-2 victory in Game 1 of World Series Yelich triples home a run and scores in first inning Misiorowski and Megill hold off late Rays fightback Trevor Megill struck out Jonny DeLuca with runners on second and third to escape a ninth-inning jam as…",
-    "published": "2026-10-24T03:40:41+00:00"
+    "summary": "Kimi Antonelli took pole as the Ferraris’ pace disappeared and everyone got the wind up them at the end of Q3, to put the world title in sight Davidson then runs us through Hamilton’s FP3 best, which is the fastest legal lap anyone has had all weekend.…",
+    "published": "2026-10-24T22:54:33+00:00"
    },
    {
-    "title": "England suffer back-to-back losses to Canada",
-    "link": "https://www.bbc.co.uk/sport/rugby-union/videos/cmx235877eexo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Watch highlights as England were beaten by Canada for the second time in as many weeks, losing 31-22 in their WXV Global Series match in Ottawa, Canada.",
-    "published": "2026-10-24T01:53:24+00:00"
-   },
-   {
-    "title": "Red Roses suffer back-to-back defeats for first time in 10 years as Canada make statement",
-    "link": "https://www.theguardian.com/sport/2026/oct/24/canada-england-red-roses-wxv-rugby-union-match-report",
+    "title": "Kimi Antonelli seizes F1 US GP pole and chance to seal first world title",
+    "link": "https://www.theguardian.com/sport/2026/oct/24/kimi-antonelli-seizes-f1-us-gp-pole-and-chance-to-seal-first-world-title",
     "source": "The Guardian",
-    "summary": "WXV: Canada 31-22 England England beaten in Ottawa for third loss in past 74 matches History-makers, era-enders, giant-slayers. Breaking England’s unbeaten run was a statement for Canada last Friday but they backed it up in a 31-22 win to deal the Red Roses…",
-    "published": "2026-10-24T01:27:21+00:00"
+    "summary": "Antonelli has 102-point lead over George Russell Needs to be 125 points in front after Sunday’s race Kimi Antonelli claimed pole position for the US Grand Prix with a hugely impressive lap for Mercedes at the Circuit of the Americas. In beating Red Bull’s Max…",
+    "published": "2026-10-24T22:52:11+00:00"
    },
    {
-    "title": "Leclerc fastest from Antonelli in US GP practice",
-    "link": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+    "title": "Antonelli takes US pole on weekend he can win title",
+    "link": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
-    "summary": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
-    "published": "2026-10-23T23:40:33+00:00"
+    "summary": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+    "published": "2026-10-24T22:51:51+00:00"
    },
    {
-    "title": "'Best team in the Championship' - Boro lay down marker",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c65ynq95xdw5o?at_medium=RSS&at_campaign=rss",
+    "title": "Should Palmer have been sent off earlier than he was?",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
-    "summary": "Middlesbrough thrash Bolton 5-1 to go top of the Championship and confirm their place among the promotion favourites.",
-    "published": "2026-10-23T23:14:00+00:00"
+    "summary": "Match of the Day pundit Martin Keown looks at the red card shown to Cole Palmer during Chelsea's 2-0 defeat to Tottenham, with the former Arsenal defender agreeing with the decision and suggesting Palmer was lucky not to receive a straight red for an early…",
+    "published": "2026-10-24T22:43:33+00:00"
    },
    {
-    "title": "Wilson and Williams through to NI Open semi-finals",
-    "link": "https://www.bbc.co.uk/sport/snooker/articles/cqy0r7wj5e9ro?at_medium=RSS&at_campaign=rss",
+    "title": "How 'special talent' Jackson inspired Villa to victory over Man City",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o?at_medium=RSS&at_campaign=rss",
     "source": "BBC Sport",
-    "summary": "Former Northern Ireland Open champions Mark Williams and Kyren Wilson win through to the semi-finals of this year's tournament in Belfast.",
-    "published": "2026-10-23T22:50:02+00:00"
+    "summary": "Match of the Day pundits Martin Keown and Steph Houghton look at the impact Aston Villa forward Nicolas Jackson had with his two goals in their 2-1 victory over Manchester City, with Keown describing him as a \"special talent\".",
+    "published": "2026-10-24T22:43:17+00:00"
+   },
+   {
+    "title": "Volkanovski stops Evloev for record ninth title win",
+    "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckvg7j2p471lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Alexander Volkanovski strengthens his claim as the greatest featherweight of all time as he defeated Movsar Evloev inside two rounds at UFC 333 in Abu Dhabi.",
+    "published": "2026-10-24T22:30:45+00:00"
+   },
+   {
+    "title": "Symonds scores screamer as Brighton beat West Ham",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cmjrwjlx5q3wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Maisie Symonds scores a 'goal of the season' contender to help Brighton beat West Ham 3-0, securing just their second league win of the season in the Women's Super League.",
+    "published": "2026-10-24T22:23:48+00:00"
    }
   ],
   "Health": [
+   {
+    "title": "My 93-year-old mother waited 10 hours on the floor for an ambulance",
+    "link": "https://www.bbc.co.uk/news/articles/cm9dzj60z2pqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Graham Anthony says his mum Margaret Owen was asking for help \"and sometimes screaming in pain\".",
+    "published": "2026-10-25T07:21:36+00:00"
+   },
+   {
+    "title": "Wellbeing support demand for cancer patients grows",
+    "link": "https://www.bbc.co.uk/news/articles/ck3r5v7qv499o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "Macmillan Cancer Support Jersey publishes its annual report looking back at 2025.",
+    "published": "2026-10-25T07:15:23+00:00"
+   },
+   {
+    "title": "Ageing users and record deaths – the data behind Britain’s £9.8bn-a-year cocaine habit",
+    "link": "https://www.theguardian.com/society/2026/oct/25/deaths-cocaine-crime-survey-england-wales",
+    "source": "The Guardian",
+    "summary": "Sewage samples and crime statistics paint a picture of established users taking more cocaine, more often Cocaine-linked crimes on the rise in Britain as consumption surges Pubs, festivals and workplaces: how cocaine has become an everyday habit From pub…",
+    "published": "2026-10-25T07:00:56+00:00"
+   },
+   {
+    "title": "I lost my job in a primary school due to endometriosis",
+    "link": "https://www.bbc.co.uk/news/articles/cq4g1k9edgyjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "summary": "A new report says nearly half of women with endometriosis have lost income due to the condition.",
+    "published": "2026-10-25T06:06:01+00:00"
+   },
+   {
+    "title": "Greg Wise on how he and Emma Thompson coped with failed IVF: ‘We hit an existential crisis – she was not a proper woman and I was not a proper man’",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/oct/25/greg-wise-on-how-he-and-emma-thompson-coped-with-failed-ivf-we-hit-an-existential-crisis-she-was-not-a-proper-woman-and-i-was-not-a-proper-man",
+    "source": "The Guardian",
+    "summary": "Their hopes of having a second child were dashed. Two decades on, the actor remembers the grief and pain of that time “I’m afraid this cycle has not been successful.” Emma and I cannot catch each other’s eye. We sit mute in our grief in the silence of the IVF…",
+    "published": "2026-10-25T06:00:55+00:00"
+   },
+   {
+    "title": "Additional 178 cases of measles reported by US health authorities amid outbreak",
+    "link": "https://www.theguardian.com/us-news/2026/oct/24/measles-outbreak-reporting",
+    "source": "The Guardian",
+    "summary": "Centers for Disease Control and Prevention reported 4,588 cases across the country, more than double the tally in 2025 Federal health authorities reported an additional 178 cases of measles in the US this week, as the vaccine-preventable illness continues to…",
+    "published": "2026-10-24T12:00:33+00:00"
+   },
+   {
+    "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+    "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+    "source": "NPR",
+    "summary": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+    "published": "2026-10-24T10:00:00+00:00"
+   },
    {
     "title": "Fitness became an addiction that left me anxious and sleep deprived",
     "link": "https://www.bbc.co.uk/news/articles/cmvg909xv1j8o?at_medium=RSS&at_campaign=rss",
@@ -1162,55 +1211,6 @@
     "source": "BBC News",
     "summary": "Concerns raised as big private firms buy up care homes and home help fragmenting in England.",
     "published": "2026-10-22T23:20:05+00:00"
-   },
-   {
-    "title": "Give more people weight-loss jabs on the NHS, say MPs",
-    "link": "https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "Current plans for 6% of eligible patients to get Mounjaro by 2028 unambitious, say MPs.",
-    "published": "2026-10-22T23:06:04+00:00"
-   },
-   {
-    "title": "Child health in England at risk from sharp rise in NHS waiting times, report says",
-    "link": "https://www.theguardian.com/society/2026/oct/23/child-health-england-at-risk-sharp-rise-nhs-waiting-times",
-    "source": "The Guardian",
-    "summary": "CQC research finds long delays are making conditions harder to treat and highlights regional disparities in care Thousands of children in England are experiencing some of the sharpest rises in waiting times for healthcare in the history of the NHS, a report…",
-    "published": "2026-10-22T23:01:52+00:00"
-   },
-   {
-    "title": "'Difficult decision' to close Samaritans branch after more than 50 years",
-    "link": "https://www.bbc.co.uk/news/articles/c6y8lvmvnm49o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "\"Sadly, and due to circumstances beyond anyone's control, the difficult decision was reached to close the branch,\" they charity says.",
-    "published": "2026-10-22T20:20:11+00:00"
-   },
-   {
-    "title": "The Guardian view on England's north-south divide: Burnham must deliver more than devolution | Editorial",
-    "link": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-englands-north-south-divide-burnham-must-deliver-more-than-devolution",
-    "source": "The Guardian",
-    "summary": "The prime minister promises to repair decades of regional damage. His government must redistribute wealth to close deadly inequalities Andy Burnham’s call to abandon “ 40 years of neoliberalism ” rests partly on the damage that he says it has done to northern…",
-    "published": "2026-10-22T17:25:45+00:00"
-   },
-   {
-    "title": "What would make neonatal units safer for babies? | Letters",
-    "link": "https://www.theguardian.com/uk-news/2026/oct/22/what-would-make-neonatal-units-safer-for-babies",
-    "source": "The Guardian",
-    "summary": "Dr Pamela S Melding highlights how New Zealand has created a healthcare culture where patient safety, interests and consent are the overriding principles. Plus letters from Mark Hanson , Paul Whiteing and a reader who lost her baby I support Mark McDonald’s…",
-    "published": "2026-10-22T15:27:59+00:00"
-   },
-   {
-    "title": "Shamonda virus detected in human for first time in France",
-    "link": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
-    "source": "The Guardian",
-    "summary": "Investigations under way to determine whether virus normally found in livestock contributed to man’s death A man in France has become the first human known to have contracted Shamonda virus, with investigations under way to explore whether it contributed to…",
-    "published": "2026-10-22T15:07:01+00:00"
-   },
-   {
-    "title": "First human case of Shamonda virus detected in France, officials say",
-    "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
-    "published": "2026-10-22T13:53:32+00:00"
    }
   ]
  }
